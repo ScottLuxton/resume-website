@@ -35,7 +35,7 @@ function Resume() {
                         year={'May 2008 - July 2009'} 
                         title={'Marketing Associate'}
                         subTitle={'Sysco Food Services'}
-                        text={'I Worked with client Chefs to help them develop menus within specified budgets and manage inventory with Sysco services and products'} 
+                        text={'I Worked with client Chefs to help them develop menus within specified budgets and manage inventory with Sysco services and products.'} 
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
