@@ -14,7 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Scott Luxton</span></h1>
                 <p>
-                Full stack development | Critical thinking | B2B sales professional | Volunteer board member | Account management | Agile software design | Lifelong learning | Creative problem solving | SCRUM master |Client services | Connecting people | Presenting and communicating | Value creation
+                Full stack development | Critical thinking | B2B sales professional | Volunteer board member | Account management | Agile software design | Lifelong learning | Creative problem solving | Client services | Connecting people | Presenting and communicating | Value creation
                 </p>
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/scott-luxton-a9679649/" className="icon i-LinkedIn">
