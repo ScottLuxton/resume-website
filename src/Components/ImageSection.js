@@ -19,7 +19,6 @@ function ImageSection() {
                 <p><br></br></p>
                 <div className="about-info">
                     <div className="info-title">
-                        <p>Nationality </p>
                         <p>Hobbies</p>
                         <p>Favourite animal</p>
                         <p>Pets</p>
@@ -27,7 +26,6 @@ function ImageSection() {
                         {/* <p>Service</p> */}
                     </div>
                     <div className="info">
-                        <p> Canadian </p>
                         <p> Cooking, Golf, Skiing, Kickboxing, Yoga</p>
                         <p> Buffalo </p>
                         <p>Two cats, Keiko and Pixie</p>
