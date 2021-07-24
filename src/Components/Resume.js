@@ -20,6 +20,14 @@ function Resume() {
                 <div className="resume-content">
                     
                     <ResumeItem 
+                        year={'Jan 2018 - Current'} 
+                        title={'Volunteer Director'}
+                        subTitle={'Eleanor Luxton Historical Foundation'}
+                        text={'In my role as a volunteer board member I have had the opportunity to participate in several initiatives directed at preserving and sharing the history of the Banff bow valley region. '} 
+                    />                   
+                    
+                   
+                    <ResumeItem 
                         year={'Oct 2014 - Aug 2020'} 
                         title={'Business Development Manager / Account Manager'}
                         subTitle={'DB Schenker of Canada'}
