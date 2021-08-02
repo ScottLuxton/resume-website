@@ -12,8 +12,8 @@ function ImageSection() {
             <div className="right-content">
                 <h4>I am <span>Scott Luxton</span></h4>
                 <p className="paragraph">
-                I thrive working in collaborative team environments where my adaptive and sometimes “outside the box” thinking is valued.  
-                I am skilled at presenting and communicating with internal and external stakeholders and I enjoy connecting businesses with clients.
+                I am a passionate “outside the box” thinker with a growth mindset seeking to join a highly collaborative, adaptive, and innovative team.  
+                I am highly skilled at communicating with and presenting to internal and external stakeholders and I enjoy facilitating growth and innovation between clients and businesses with aligned goals and a shared purpose.
                 </p>
                 <p>I am seeking a position where I can integrate the many business skills I have developed in nearly fifteen years of marketing and account management with the technical skills I acquired while learning full stack development with InceptionU. </p>
                 <p><br></br></p>
